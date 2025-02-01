@@ -46,9 +46,9 @@
 - search bar : search acccoring to the topics/technologies ur intrested in
 - request buttons : u can request the contributor of the idea to collaborate
  **Secure Authentication**: User authentication for a safe and personalized experience.]
-- **File Uploads**: Allows researchers to share relevant files and documents.
-- **Knowledge Graphs**: Visual representation of research connections.
-- **Collaboration Tools**: Facilitate teamwork through discussion threads and project management
+- File Uploads: Allows researchers to share relevant files and documents.
+- Knowledge Graphs: Visual representation of research connections.
+- Collaboration Tools: Facilitate teamwork through discussion threads and project management
 
 Contributing
 
